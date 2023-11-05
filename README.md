@@ -1,16 +1,22 @@
 # Teste técnico - Jornada dos Heróis
 
-## Objetivo
+### 📷 Preview
 
-Desenvolvimento da interface do usuário usando React, com ênfase em consumo de API relacionada na tema dos heróis. 
+<img src="./src/assets/mobile.png" alt="todo" width="100%"/>
 
-### Funções
+<br>
+
+<img src="./src/assets/card.png" alt="todo" width="100%"/>
+
+> Desenvolvimento da interface do usuário usando React, com ênfase em consumo de API relacionada na tema dos heróis.
+
+### 🚀 Funções
 
 - Listagem de heróis
 - Filtro de Heróis
 - Sistema de combate entre Heróis
 
-### Ferramentas utilizadas
+### ⚙️ Ferramentas utilizadas
 - React.js
 - Styled-components
 - Material UI
@@ -23,7 +29,7 @@ Desenvolvimento da interface do usuário usando React, com ênfase em consumo de
 
 
 
-### `Instalação`
+### 💻 `Instalação`
 
 1. Clone o repositório
 ```
@@ -40,20 +46,12 @@ $ yarn add
 $  yarn start
 ```
 
-### Preview
-
-<img src="./src/assets/mobile.png" alt="todo" width="100%"/>
-
-<br>
-
-<img src="./src/assets/Card.png" alt="todo" width="100%"/>
-
-### Desenvolvido por
+### ✒️ Desenvolvido por
 
 Mikaeli Pereira Sampaio
 
-### Contato
+### 💬 Contato
 
-mikaasampaio6@gmail.com
+Email: mikaasampaio6@gmail.com
 
-https://www.linkedin.com/in/mikaeli-pereira/
+Linkedin: https://www.linkedin.com/in/mikaeli-pereira/
